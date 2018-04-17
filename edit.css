@@ -1,0 +1,13 @@
+body{
+	background-image:url(images/background.png);
+}
+h1{
+	text-align: center;
+	text-decoration-color: white;
+}
+span{
+	color: pink;
+}
+footer{
+	text-align: center;
+}
